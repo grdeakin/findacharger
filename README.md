@@ -21,6 +21,7 @@ Sets up for you: hamburger menu, drawer navigation, tests (with jest), hooks, de
 
 # Preview
 
+
 <!-- Add a demo for your project -->
 
 ![Demo GIF](https://storage.googleapis.com/gh-assets/expo-template.gif)
